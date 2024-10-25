@@ -1,4 +1,3 @@
-// src/play/play.jsx
 
 import React from "react";
 import "./play.css";

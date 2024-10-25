@@ -1,4 +1,3 @@
-// src/scores/scores.jsx
 
 import React from "react";
 import "./scores.css";
